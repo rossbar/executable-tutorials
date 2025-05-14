@@ -101,7 +101,6 @@ jobs:
     - name: Build static site
       run: pixi run build
 
-
   pixi_build_wasm:
     name: Build jupyterlite site with pixi
     runs-on: ubuntu-latest
