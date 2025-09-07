@@ -2,7 +2,7 @@
 version: 1
 project:
   id: 9db2473e-461d-4266-86fa-a2a0ea3eb2c9
-  title: executable-tutorials
+  title: Executable Tutorials
   description: Executable tutorials for Scientific Python
   keywords: []
   authors: [Scientific Python Developers]
@@ -18,8 +18,8 @@ project:
         - file: tutorials/matplotlib/static_mpl.md
         - file: tutorials/static/static.md
     - file: contributing.md
-    - file: maintainers.md
-    
+    - file: maintainer-guide.md
+
 site:
   template: book-theme
   # options:
